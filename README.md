@@ -1,6 +1,6 @@
 ## HOW TO SET UP ARGOCD FOR CONTINOUS DELIVERY
 
-![Alternate image text](https://sdbrett.com/assets/images/argo-horizontal-color.svg)
+<img title="a title" alt="Alt text" style="width: 350px" src="./images/argocd1.png">
 
 ### INTRO:
 ArgoCD is an open-source tool for continuous delivery on Kubernetes. It automates the deployment of applications and infrastructure to a cluster. It uses a declarative approach to configuration management. It provides a user-friendly web interface and CLI for managing deployments. ArgoCD ensures that the desired state is always maintained.
